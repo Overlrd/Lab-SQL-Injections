@@ -148,6 +148,8 @@ L' OWASP fournit plusieurs techniques permettant d'éviter les [injections SQL](
 
 
 ### Notes et références:
+
+ - [How can I prevent SQL injection in PHP?](https://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php)
  - [payloadbox/sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list)
  - [OWASP Top 10:2021](https://owasp.org/Top10/fr/A03_2021-Injection/)
  - [SQL Injection Tutorial: Learn with Example](https://www.guru99.com/learn-sql-injection-with-practical-example.html)
